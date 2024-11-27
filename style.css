@@ -1,0 +1,29 @@
+h1{
+    text-align: center;
+     display: inline-block;
+     padding:50px;
+     border-radius: 100px;
+	color: #6f1d1b;
+background-color: #9d8189
+}
+h2 {
+ color: #780000;
+ font-size:20px; 
+ background-color: #9d8189;
+ padding: 75px; 
+ border-radius: :60px; 
+ text-align: center;
+}
+body{
+letter-spacing: 1.px;
+background-color:#e3d5ca
+}
+p{  font-family: "Dancing Script", cursive;
+font-style: 60}
+
+h1{ font-family: "Work Sans", sans-serif}
+h2 { font-family: "Bokor", system-ui;}
+
+h3{
+    font-family: "Anton", sans-serif;
+}
